@@ -1,0 +1,2 @@
+docker build --tag naturepi/caddy-alidns ./
+docker push naturepi/caddy-alidns
